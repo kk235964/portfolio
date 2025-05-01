@@ -1,0 +1,19 @@
+.contact-icon {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* border-radius: 50%; if you want a circular glow */
+  }
+  
+  .contact-icon:hover {
+    transform: scale(1.3);
+    /* box-shadow: 0 0 20px rgba(6, 182, 212, 0.6); cyan glow */
+  }
+  
+  .contact-label {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .group:hover .contact-label {
+    opacity: 1;
+  }
+  
