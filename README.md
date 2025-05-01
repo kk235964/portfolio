@@ -1,7 +1,8 @@
 # 🌐 My Portfolio – Kamal Ahmad
 
 Welcome to my personal portfolio site, built using **Vite**, **React**, and **Tailwind CSS**.
-visit my site: [My Portfolio](https://kamalahmad.netlify.app/)
+
+- visit my site: [My Portfolio](https://kamalahmad.netlify.app/)
 
 ## 🚀 Features
 
